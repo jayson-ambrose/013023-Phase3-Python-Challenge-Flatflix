@@ -8,6 +8,14 @@ from classes.viewer import Viewer
 if __name__ == '__main__':
 #  WRITE YOUR TEST CODE HERE ###
 
+    m1 = Movie("Thirteen Ghosts")
+    m2 = Movie("Knives Out")
+    m3 = Movie("Die Hard")
+
+    v1 = Viewer("beardcaster_mage")
+    v2 = Viewer("rumplestilskin")
+    v3 = Viewer("maniacal_crawdad")
+
 
 
 
